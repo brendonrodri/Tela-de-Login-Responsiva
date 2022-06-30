@@ -253,19 +253,14 @@ body{
     }
     .loginContainer .formContainer .inputBox button{
         border: none;
-        width: 7vw;
-        height: 4vh;
+        width: 9vw;
+        height: 5vh;
         margin: 15px auto;
         font-size: 0.9em;
         font-weight: bold;
         color: #fff;
         border-radius: 7px;
-        box-shadow: 1px 1px 1px 1px rgba(0, 0, 0 , 0.8);
         background: #495aff;
-    }
-    .loginContainer .formContainer .inputBox button:hover{
-        background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
-        transition: 0.5s ease-out;
     }
     .icone{
         width: 30vw;
